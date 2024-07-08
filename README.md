@@ -25,6 +25,8 @@ pytest==8.1.1
 
 ```
 git clone https://github.com/your-repo/moberg-analytics-integration.git
+```
+```
 cd moberg-analytics-integration
 ```
 2. Install dependencies 
