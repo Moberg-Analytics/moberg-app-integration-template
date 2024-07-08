@@ -20,9 +20,13 @@ pytest==8.1.1
 
 ### Installation steps
 
-1. Clone the repo 
+1. Clone the repo
 
 
+```
+git clone https://github.com/your-repo/moberg-analytics-integration.git
+cd moberg-analytics-integration
+```
 2. Install dependencies 
 
 3. Build the module
