@@ -1,5 +1,5 @@
 # This is an example file
-# This module should be in the format of a .so (shared object) file
+# Module should be in the format of a .so (shared object) file
 
 import module_name
 
