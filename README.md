@@ -10,13 +10,13 @@ Description about the integration with Moberg Analytics and introduction for the
 ### Requirements
 
 Ensure your environment matches the following versions to avoid any compatibility issues:
-
+```
 Python 3.8.19
 numpy==1.20.3
 pandas==2.0.2
 scipy==1.10.0
 pytest==8.1.1
-
+```
 
 ### Installation steps
 
