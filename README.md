@@ -1,6 +1,16 @@
 # Moberg-Analytics-Integration
 Template codebase for third party integration with Moberg Analytics. Please feel free to make the changes to this file as required by the module
 
+## Repo structure
+
+```
+tests (dir) --> Contains input and output test cases
+main.py --> contains code to show how to run the module
+module_name.so --> shared object file that can be imported as a python package
+LICENSE --> should be changed according to the requirements
+test_file.csv --> provide a csv test file, for the test and use cases. (This file might not have required channels for the module)
+```
+
 ## Introduction
 
 Description about the integration with Moberg Analytics and introduction for the module
