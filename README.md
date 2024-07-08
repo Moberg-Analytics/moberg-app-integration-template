@@ -1,5 +1,5 @@
 # Moberg-Analytics-Integration
-Template codebase for third party integration with Moberg Analytics
+Template codebase for third party integration with Moberg Analytics. Please feel free to make the changes to this file as required by the module
 
 ## Introduction
 
@@ -22,14 +22,18 @@ pytest==8.1.1
 
 1. Clone the repo
 
-
 ```
 git clone https://github.com/your-repo/moberg-analytics-integration.git
 ```
 ```
 cd moberg-analytics-integration
 ```
-2. Install dependencies 
+
+2. Install dependencies
+
+```
+pip install -r requirements.txt
+```
 
 3. Build the module
 
@@ -37,9 +41,23 @@ cd moberg-analytics-integration
 ## Usage
 
 ## Importing and running the module
+You can import the provided module into your Python code as follows:
+```
+import moberg_integration as mi
+```
+
+## Testing
+We use pytest for testing the integration.
+
+## Demo Input File
+Please provide a demo input file for testing purposes
+
+## Delay in response
+If there are any known delays in response for detecting events, please provide an estimation. This will help us approach our implementation more effectively.
 
 ## Changelog
+This section will include updates and version changes.
 
-This is where the version update goes
 
-## 
+## Contact
+Please provide any contact information here
