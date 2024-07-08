@@ -1,8 +1,9 @@
 # This is an example file
+# This module should be in the format of a .so (shared object) file
 
-import module
+import module_name
 
 df = pd.read_csv('test_file.csv') 
 
 
-module(df)
+module_name(df)
