@@ -1,6 +1,6 @@
 # Moberg-Analytics-Integration
 
-## Clients must fork the repository and not create a PR. 
+### Clients must fork the repository and not create a PR. 
 
 Template codebase for third party integration with Moberg Analytics. Please feel free to make the changes to this file as required by the module
 
