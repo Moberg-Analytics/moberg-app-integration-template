@@ -34,6 +34,7 @@ numpy==1.20.3
 pandas==2.0.2
 scipy==1.10.0
 pytest==8.1.1
+cython==0.29.21
 ```
 
 ### Installation steps
